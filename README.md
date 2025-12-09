@@ -2,7 +2,7 @@
 
 ### Estudante de Engenharia da Computação | Aspirante a Desenvolvedor Java Backend
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-astori-4b4a39258/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-rubim-astori-a0050526a/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/EnzoAstori)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:SEU-EMAIL@gmail.com)
 
