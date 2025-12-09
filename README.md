@@ -94,7 +94,7 @@ Foco atual em construir base sólida técnica e entrar no mercado de tecnologia.
 **Links:**
 - [LinkedIn](https://www.linkedin.com/in/enzo-astori-4b4a39258/)
 - [GitHub](https://github.com/EnzoAstori)
-- Email: SEU-EMAIL@gmail.com
+- Email: enzorubim10@gmail.com
 
 ---
 
