@@ -1,39 +1,57 @@
-# 👨‍💻 Enzo Astori
+# Enzo Astori
 
-### Desenvolvedor Java Backend | Estudante de Engenharia da Computação
+**Estudante de Engenharia da Computação | Foco em Java Backend**
 
-![Profile views](https://komarev.com/ghpvc/?username=EnzoAstori&color=blue)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-astori-4b4a39258/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:SEU-EMAIL@gmail.com)
-
----
-
-## 🚀 Sobre Mim
-
-Estudante de Engenharia da Computação no 4º ano, em transição para desenvolvimento Java Backend profissional. Foco em construir sistemas escaláveis com Spring Boot, APIs REST e boas práticas de arquitetura.
-
-**Interesses:** APIs REST, Microsserviços, Cloud, DevOps, Arquitetura de Software
-
-**Objetivo atual:** Buscando estágio/oportunidade para crescer como desenvolvedor Backend.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Enzo_Astori-0077B5?logo=linkedin)](https://www.linkedin.com/in/enzo-astori-4b4a39258/)
+[![Email](https://img.shields.io/badge/Email-Contato-D14836?logo=gmail)](mailto:SEU-EMAIL@gmail.com)
 
 ---
 
-## 🛠️ Tecnologias
+## 🎯 Em Transição para o Mercado
+
+**Situação atual:** 4º ano de Engenharia da Computação, estruturando conhecimentos para ingresso no mercado como desenvolvedor Backend Java.
+
+**Foco 2025-2026:** 
+- Desenvolvimento Backend com Java/Spring Boot  
+- APIs REST, Banco de Dados, Docker
+- Metodologias Ágeis (Scrum/Kanban)
+- Primeira oportunidade profissional
+
+---
+
+## 🛠️ Tecnologias em Estudo
 
 ### **Backend**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+Java • Spring Boot • Spring Security • JPA/Hibernate
 
 ### **Banco de Dados**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+PostgreSQL • MySQL • MongoDB
 
-### **Ferramentas & DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### **Ferramentas**
+Docker • Git • Postman • IntelliJ • Linux
+
+### **Metodologias**
+Scrum • Kanban • Agile
 
 ### **Outras**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+Python • C++ • JavaScript
+
+---
+
+## 📚 Próximos Passos
+
+1. **Projeto Âncora Java** (Sistema completo com Spring Boot)
+2. **Containerização** com Docker
+3. **APIs REST documentadas** com Postman
+4. **Deploy na nuvem** (AWS/Azure)
+5. **Busca ativa por estágio**
+
+---
+
+## 📊 GitHub Stats
+
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=EnzoAstori&show_icons=true&hide_title=true)
+
+---
+
+💼 **Disponível para oportunidades de estágio em desenvolvimento Backend Java**
