@@ -65,22 +65,7 @@ Foco atual em construir base sólida técnica e entrar no mercado de tecnologia.
 - 🔨 API REST documentada com Postman
 - 🔨 Containerização com Docker
 - 🔨 Integração com MongoDB
-
----
-
-## 🎯 Roadmap 2025-2026
-
-### **Q3 2025 (Julho-Setembro)**
-- [x] **GitHub organizado** (em andamento)
-- [ ] **Projeto Java Spring Boot** (iniciando)
-- [ ] **Docker básico** para aplicações
-- [ ] **Postman** para testes de API
-
-### **Q4 2025 (Outubro-Dezembro)**
-- [ ] **Banco de Dados** avançado
-- [ ] **Testes automatizados** com JUnit
-- [ ] **Deploy na nuvem** (AWS/Heroku)
-- [ ] **Início busca por estágio**
+- 🔨 Projetos de Dados BI 
 
 ---
 
